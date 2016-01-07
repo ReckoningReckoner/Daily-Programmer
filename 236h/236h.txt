@@ -1,0 +1,4 @@
+C5H12 + O2 -> CO2 + H2O
+Zn + HCl -> ZnCl2 + H2
+Ca(OH)2 + H3PO4 -> Ca3(PO4)2 + H2O
+FeCl3 + NH4OH -> Fe(OH)3 + NH4Cl
