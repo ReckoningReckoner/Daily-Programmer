@@ -1,0 +1,4 @@
+1 banana, 2 avocado, 2 apple
+4 avocado, 4 apple
+8 avocado, 3 apple
+12 avocado, 2 apple
