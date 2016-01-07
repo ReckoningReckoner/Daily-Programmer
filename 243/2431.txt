@@ -1,4 +1,0 @@
-banana 250
-apple 100
-pear 300
-avocado 25
